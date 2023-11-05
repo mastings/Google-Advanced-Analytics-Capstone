@@ -12,6 +12,7 @@ The dataset contains 14999 entries ofemployee data from Salifort Motors. The dat
 
 **Modeling and Evaluation**
 A logistic regression model was used to determine what employees would leave the company or not. The below chart is a confusion matrix for the model which shows a total of 504 misclassifcations and 2288 correct classifications. The overall model performed with a precision of 79%, recall of 82%, f1 score of .8, and 80% accuracy.
+
 ![cm](https://github.com/mastings/Google-Advanced-Analytics-Capstone/assets/22780966/95c0f84c-8d94-49df-81a8-5a20d83456c7)
 
 **Conclusion**
